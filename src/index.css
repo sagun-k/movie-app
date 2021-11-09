@@ -1,0 +1,12 @@
+body {
+ background:#000000e6;
+}
+.movie-app>.row{
+  overflow-x:auto;
+  flex-wrap:nowrap;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
